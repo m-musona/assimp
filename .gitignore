@@ -23,6 +23,12 @@ out/
 CMakeSettings.json
 
 # Output
+**/bin/
+**/bin-int/
+Intermediates
+*.sln
+*.vcxproj
+*.vcxproj.filters
 bin/
 bin-int/
 lib/
